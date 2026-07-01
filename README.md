@@ -6,7 +6,7 @@ Este projeto faz parte do meu processo de aprendizado e continuará recebendo me
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - ✅ Verificar se um CPF é válido
 - ✅ Gerar um CPF válido a partir dos 9 primeiros dígitos informados
@@ -15,7 +15,7 @@ Este projeto faz parte do meu processo de aprendizado e continuará recebendo me
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Python 3
 - Módulo `re`
@@ -25,9 +25,9 @@ Este projeto faz parte do meu processo de aprendizado e continuará recebendo me
 ---
 
 
-## 📈 Melhorias planejadas
+## Melhorias planejadas
 
-- [ ] Refatorar o código utilizando funções
+- [ ] Refatorar o código utilizando funções [Em andamento...}
 - [ ] Eliminar código duplicado
 - [ ] Melhorar a validação de entrada
 - [ ] Detectar CPFs inválidos com todos os dígitos iguais
@@ -40,7 +40,7 @@ Este projeto faz parte do meu processo de aprendizado e continuará recebendo me
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Além de validar e gerar CPFs, este projeto representa minha evolução como desenvolvedor. Pretendo continuar aprimorando o código conforme aprendo novos conceitos em Python e boas práticas de desenvolvimento.
 
